@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-26w2i5.juragan89.online/sitemap.xml
